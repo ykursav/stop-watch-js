@@ -4,7 +4,7 @@
 
 There is not much to tell about that project. Basic stop watch. With HTML, JS and CSS. Most advance part probably CSS which I found online for buttons. (I really appreciate what people can do with CSS)
 
-![](https://github.com/ykursav/stop-watch-js/blob/main/gif_of_project.gif)
+![Gif_of_project](./gif_of_project.gif)
 
 ### About me
 
